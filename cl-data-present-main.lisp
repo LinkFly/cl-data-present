@@ -1,3 +1,4 @@
+;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; Hash tables reader
 (defun |#M-reader| (stream char arg)
